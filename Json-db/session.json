@@ -1,56 +1,71 @@
 {
    "query":{
       "pages": [{"sessionName": "Phiên 1 - Ngày 9/8",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/1-thumbnail.jpeg",
-      		 "sessionKey": "8429@NKab",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/1-thumbnail.jpeg",
+      		 "sessionKey": "khoidong#89",
       		 "content": [
 			 {    
 			    "title":"9-12/8 - Ngày 1 phần 1",
 			    "extension": "eGc1dbxQTmk",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_1_1_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_1_1_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 1 phần 2",
 			    "extension": "ZoU_wOxX25w",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_1_2_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_1_2_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 2 phần 1",
 			    "extension": "1Knn1GZTWmo",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_2_1_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_2_1_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 2 phần 2",
 			    "extension": "O0xeffsdOoU",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_2_2_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_2_2_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 3 phần 1",
 			    "extension": "5FjFxQYobtA",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_3_1_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_3_1_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 3 phần 2",
 			    "extension": "cu4dhXDrLmc",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_3_2_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_3_2_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 4 phần 1",
 			    "extension": "V3pN4O79zH4",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_4_1_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_4_1_thumbnail.webp"
 			 },
 			 {  "title": "9-12/8 - Ngày 4 phần 2",
 			    "extension": "MCFFPINNtww",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Aug8th/Aug8th_4_2_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/1_Aug8th/Aug8th_4_2_thumbnail.webp"
 			 }
 		      	]
    		}, 
    		{"sessionName": "Phiên 2 - Ngày 27/9",
-		 "sessionThumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Sep27th/2-thumbnail.png",
-   		 "sessionKey": "toicomatkhau#589",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/2_Sep27th/2-thumbnail.png",
+   		 "sessionKey": "buoitoi#589",
    		 "content": [
 			 {    
 			    "title":"27/9 - 4 Phần Chữa Lành",
 			    "extension": "WSwNY96Dfgs",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Sep27th/Sep27_fresh.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/2_Sep27th/Sep27_fresh.webp"
 			 },
 			 {  "title": "27/9 - Năng lượng 9:9",
 			    "extension": "Jt28ge5dmBI",
-			    "thumbnail": "https://raw.githubusercontent.com/m31-alpheratz/MusicPlayer/master/QN2_thumbnail/Sep27th/Sep27_9_9_thumbnail.webp"
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/2_Sep27th/Sep27_9_9_thumbnail.webp"
+			 }
+		 	]
+		},
+		{"sessionName": "Phiên 3 - Ngày 10/10",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/3_Oct10/3_thumbnail.png",
+   		 "sessionKey": "dulieurong@32",
+   		 "content": [
+			 {    
+			    "title":"10/10 - Chữa Lành 10:10 Phần 1",
+			    "extension": "4M6AoHFswFU",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/3_Oct10/Oct10_1010_1.webp"
+			 },
+			 {  "title": "10/10 - Chữa Lành 10:10 Phần 1",
+			    "extension": "y8GAzREaWSg",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/3_Oct10/Oct10_1010_2.webp"
 			 }
 		 	]
 		}
