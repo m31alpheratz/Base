@@ -74,13 +74,14 @@
    		 "sessionKey": "congtroi",
    		 "content": [
 			 {    
-			    "title":"Bài yoga cấp 9 - Cổng đến sự tái sinh thần thánh",
-			    "extension": "-F1cBVKcU9A",
+			    "title":"Bài yoga cấp 9 - Cổng đến sự tái sinh thần thánh (mới 1)",
+			    "extension": "GSibhW9ZHq8",
 			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/4_Thanks/9.webp"
 			 },
 			 {    
-			    "title":"Bài yoga cấp 9 - Cổng đến sự tái sinh thần thánh (mới)",
-			    "extension": "GSibhW9ZHq8"
+			    "title":"Bài yoga cấp 9 - Cổng đến sự tái sinh thần thánh (mới 2)",
+			    "extension": "cUCjKn1xzKA",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/4_Thanks/9.webp"	
 			 },
 			 {    
 			    "title":"Dịch chuyển tâm thức vĩ đại",
@@ -158,7 +159,18 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/4_Thanks/l94-4.webp"
 			 }
 		 	]
-		}
+		},
+		{"sessionName": "Phiên 5 - 7 Luân xa",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/5_Mediation/7.jpg",
+   		 "sessionKey": "matkhaudai@32",
+   		 "content": [
+			 {    
+			    "title":"7 Chakra Meditation",
+			    "extension": "SzaX8Y6nzeY",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/5_Mediation/7-mediation.jpg"
+			 }
+		 	]
+		},
 		]		 
 	}
 }
