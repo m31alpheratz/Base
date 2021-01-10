@@ -170,6 +170,47 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/5_Mediation/7-mediation.jpg"
 			 }
 		 	]
+		},
+		{"sessionName": "Phiên 6 - Long Hoa",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_t.jpg",
+   		 "sessionKey": "longhoa###2021",
+   		 "content": [
+			 {    
+			    "title":"Ngày 1 P1",
+			    "extension": "INfPqToj1wI",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_1_1.webp"
+			 },
+			 {    
+			    "title":"Ngày 1 P2",
+			    "extension": "JyqnqsNcGKo",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_1_2.webp"
+			 },
+			 {    
+			    "title":"Ngày 2 P1",
+			    "extension": "ohMuOf3LHNM",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_2_1.webp"
+			 },
+			 {    
+			    "title":"Ngày 2 P2",
+			    "extension": "DgTDmJlM9-I",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_2_2.jpg"
+			 },
+			 {    
+			    "title":"Ngày 3 P1",
+			    "extension": "_ZMSXOdtOvE",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_3_1.webp"
+			 },
+			 {    
+			    "title":"Ngày 3 P2",
+			    "extension": "fUlaUADi_W0",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_3_2.jpg"
+			 },
+			 {    
+			    "title":"Ngày 4",
+			    "extension": "Kv5ykRi6-v4",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_4.webp"
+			 }
+		 	]
 		}
 		]		 
 	}
