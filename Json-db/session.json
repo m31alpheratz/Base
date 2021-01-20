@@ -211,6 +211,27 @@
 			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/6_LH/lh_4.webp"
 			 }
 		 	]
+		},
+		{"sessionName": "Phiên 7 - 10/01/2021",
+		 "sessionThumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/5_Mediation/7.jpg",
+   		 "sessionKey": "ngay102021",
+   		 "content": [
+			 {    
+			    "title":"10/01/2021 Phần 1",
+			    "extension": "UjU2CgpRedw",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/7_Jan2021/7_1.jpg"
+			 },
+			 {    
+			    "title":"10/01/2021 Phần 2",
+			    "extension": "O-K6AonYU8o",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/7_Jan2021/7_2.webp"
+			 },
+			 {    
+			    "title":"10/01/2021 Phần 3",
+			    "extension": "lnVTyYkErIw",
+			    "thumbnail": "https://raw.githubusercontent.com/m31alpheratz/Base/master/QN2_thumbnail/7_Jan2021/7_3.webp"
+			 }
+		 	]
 		}
 		]		 
 	}
