@@ -245,23 +245,23 @@
 		 	]
 		},
 		{"sessionName": "Phiên 9 - Tháng 02",
-		 "sessionThumbnail": "",
+		 "sessionThumbnail": " ",
    		 "sessionKey": "cap9",
    		 "content": [
 			 {    
 			    "title":"Cấp 9 Express Phần 1",
 			    "extension": "m-xEZF6IY1s",
-			    "thumbnail": ""
+			    "thumbnail": " "
 			 },
 			 {    
 			    "title":"Cấp 9 Express Phần 2",
 			    "extension": "4rCYDh8jaOo",
-			    "thumbnail": ""
+			    "thumbnail": " "
 			 },
 			 {    
 			    "title":"Cấp 9 Express Phần 3",
 			    "extension": "ITm0ECsEw0I",
-			    "thumbnail": ""
+			    "thumbnail": " "
 			 }
 		 	]
 		}
